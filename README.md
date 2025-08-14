@@ -8,10 +8,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-udaykirankalli-black?logo=github)](https://github.com/UdaykiranKalli)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:kalliudaykiran@gmail.com)
 
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=udaykirankalli&show_icons=true&theme=radical" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykirankalli&layout=compact&theme=radical" height="165">
 
 ---
 
