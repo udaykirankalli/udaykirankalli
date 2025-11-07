@@ -1,180 +1,113 @@
 # Hi, I'm Uday Kiran Kalli 👋
 
-**Software Engineer | Full-Stack & AI/ML | Python, React, AWS**
+**Software Engineer** | Building scalable systems with React, Python & Flask
 
-Published researcher building production systems that deliver measurable impact:
-- 🚀 99.9% uptime & 40% faster deployments
-- 💰 $75K+ cost savings through ML optimization  
-- 📊 1,000+ daily users served
-- 📄 UGC Care Journal publication (2025)
+6+ months production experience • 99.9% uptime • $75K+ cost optimization
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-red?style=for-the-badge)](https://udaykirankalli.framer.website)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/udaykirankalli)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/udaykirankalli)
-[![Email](https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail)](mailto:kalliudaykiran@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?style=flat-square)](https://udaykirankalli.framer.website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/udaykirankalli)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:kalliudaykiran@gmail.com)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-
-### Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=rest&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-
-### AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Languages:** Python • JavaScript • SQL • C++  
+**Frontend:** React.js • Redux • HTML5 • CSS3  
+**Backend:** Flask • Node.js • Express.js • REST APIs  
+**Databases:** PostgreSQL • MongoDB • MySQL  
+**DevOps:** Docker • GitHub Actions • CI/CD • AWS • Git
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Build
 
-### [Phonalynx - AI Resume Analyzer](https://github.com/UdayKiranKalli/Phonalynx) 
-**📊 95% ATS accuracy | 1,000+ resumes processed | 200+ active users**
-
-AI-powered resume evaluation platform with real-time scoring and improvement suggestions.
-
-- 🎯 **Impact:** Helping job seekers optimize resumes for ATS compatibility
-- 🛠️ **Tech:** React, Flask, MongoDB, Gemini API, Docker, AWS, Firebase
-- 🔗 **Live Demo:** [phonalynx.onrender.com](https://phonalynx.onrender.com)
+- **Scalable web applications** serving 1000+ users with 99.9% uptime
+- **RESTful APIs** with optimized response times (30% faster)
+- **CI/CD pipelines** reducing deployment time by 40%
+- **Full-stack solutions** with React frontends and Python/Node backends
 
 ---
 
-### [AI Recipe Generator](https://github.com/UdaykiranKalli/ai-recipe-generator)
-**📊 10,000+ recipes | 88% ingredient detection | 4.7⭐ rating**
+## 💼 Experience
 
-LLaMA-2 powered recipe generator with calorie tracking and dietary preferences.
+**Full Stack Engineer @ Innowaft** (Jan 2025 - May 2025)
+- Built React apps with 25% faster load times for 1000+ daily users
+- Designed 15+ REST APIs reducing data retrieval by 25%
+- Implemented CI/CD pipelines achieving 99.9% uptime
 
-- 🎯 **Impact:** Published in UGC Care Journal (April 2025)
-- 🛠️ **Tech:** LLaMA-2, React, Flask, PostgreSQL, TensorFlow, Computer Vision
-- 📄 **Research:** AI-powered recipe recommendation system
+**AI Engineer @ Edubot** (Jul 2024 - Aug 2024)
+- Engineered ETL pipelines processing 10M+ daily records
+- Developed optimization system saving $75K+ annually
+- Created analytics dashboard serving 50+ stakeholders
 
 ---
+
+## 🛠️ Featured Projects
+
+### [Phonalynx - Resume Analyzer](https://github.com/UdayKiranKalli/Phonalynx) 
+Full-stack SaaS platform processing 1000+ resumes with 95% accuracy  
+**Stack:** React • Flask • MongoDB • Docker • Firebase  
+**Impact:** 500+ concurrent users, 200+ active accounts  
+🔗 [Live Demo](https://phonalynx.onrender.com)
+
+### [Recipe Platform](https://github.com/UdaykiranKalli/ai-recipe-generator)
+AI-powered recipe app generating 10K+ recipes with nutrition tracking  
+**Stack:** React • Flask • PostgreSQL • LLaMA-2 • AWS  
+**Impact:** 88% accuracy, 4.7⭐ rating, 500+ concurrent users
 
 ### [Supply Chain Optimizer](https://github.com/UdaykiranKalli/supplychain-optimizer)
-**📊 $75K+ cost savings | 28% reduction in stock-outs | 92% accuracy**
+ML forecasting system reducing stock-outs by 28%  
+**Stack:** Python • Scikit-learn • PostgreSQL • Plotly  
+**Impact:** $75K+ annual savings, 92% forecast accuracy
 
-ML forecasting model for supply chain disruption prediction using time-series analysis.
-
-- 🎯 **Impact:** Implemented at Edubot, saving $75,000+ annually
-- 🛠️ **Tech:** Python, Scikit-learn, LSTM, Prophet, Pandas, Plotly
-- 📈 **Results:** 28% fewer stock-outs, 92% forecast accuracy
-
----
-
-### [KCube E-Learning Platform](https://github.com/UdaykiranKalli/kcube-elearning)
-**📊 MERN Stack | 35% better retention | Video streaming | Quiz system**
-
-Full-featured e-learning platform with video courses and interactive assessments.
-
-- 🎯 **Features:** Video uploads, quizzes, user tracking, progress analytics
-- 🛠️ **Tech:** MongoDB, Express.js, React, Node.js (MERN Stack)
-- 📈 **Results:** 35% improvement in session retention
+### [KCube E-Learning](https://github.com/UdaykiranKalli/kcube-elearning)
+Full-featured learning platform with video streaming  
+**Stack:** MongoDB • Express • React • Node.js (MERN)  
+**Impact:** 35% better session retention
 
 ---
 
-## 💻 Competitive Programming
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-5★%20Java-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/kalliudaykiran)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solving-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaykirankalli&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-</div>
-
-- 🏅 **HackerRank:** 5-star Java certification
-- 💡 **Focus:** Data Structures, Algorithms, Problem Solving
-- 🎯 **Practice:** Regular DSA problem solving on competitive platforms
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaykirankalli&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udaykirankalli&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udaykirankalli&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udaykirankalli&layout=compact&theme=default&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-- 📄 Published research in UGC Care Listed Journal (2025) - "Smart Chef: AI Recipe Generator and Recommender"
-- 🎓 BTech in Artificial Intelligence & Machine Learning (8.14 CGPA) - Aditya University
-- 💼 Ex-Intern at Innowaft (Full Stack) & Edubot (AI/ML)
-- 🏅 5-star Java certification on HackerRank
-- 🚀 Built 10+ production-grade full-stack applications
-- 💡 99.9% uptime achieved through CI/CD automation
-
----
-
-## 🔭 Currently Working On
-
-- 🚀 Building scalable backend systems with microservices architecture
-- 📚 Deepening knowledge in System Design and Advanced DSA
-- 🤖 Exploring LLM applications and RAG architectures
-- 🤝 Open to collaborating on Full-Stack and AI/ML projects
-- 💼 Seeking SDE-1 / Full Stack Developer roles
+- 📄 Published Researcher - UGC Care Journal (2025)
+- 🏅 Flipkart GRiD 6.0 Qualifier
+- ☁️ Oracle Cloud AI Foundations Certified
+- 🎓 BTech AI & ML - 8.14 CGPA
+- ⭐ HackerRank 5-Star Java
 
 ---
 
-## 📫 Let's Connect
+## 🔭 Currently
+
+- Building production-grade full-stack applications
+- Learning system design and advanced DSA
+- **Open to Software Engineer / SDE-1 roles**
+
+---
 
 <div align="center">
-
-**Open to opportunities in Software Development, Full-Stack Engineering, and AI/ML roles**
 
 📍 Hyderabad, India | Open to relocation  
 📧 kalliudaykiran@gmail.com  
-🌐 [Portfolio](https://udaykirankalli.framer.website) | [LinkedIn](https://linkedin.com/in/udaykirankalli) | [GitHub](https://github.com/udaykirankalli)
+🌐 [Portfolio](https://udaykirankalli.framer.website) • [LinkedIn](https://linkedin.com/in/udaykirankalli)
 
-</div>
-
----
-
-<div align="center">
-
-*"Building scalable systems that deliver measurable business impact"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=udaykirankalli&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=udaykirankalli&color=blue&style=flat-square)
 
 </div>
