@@ -49,7 +49,7 @@
 
 ## 🛠️ Featured Projects
 
-### [Phonalynx - Resume Analyzer](https://github.com/UdayKiranKalli/Phonalynx) 
+### [AI - Resume Analyzer](https://github.com/udaykirankalli/AI-Resume-Analyzer) 
 Full-stack SaaS platform processing 1000+ resumes with 95% accuracy  
 **Stack:** React • Flask • MongoDB • Docker • Firebase  
 **Impact:** 500+ concurrent users, 200+ active accounts  
@@ -62,7 +62,7 @@ AI-powered recipe app generating 10K+ recipes with nutrition tracking
 
 ### [Supply Chain Optimizer](https://github.com/UdaykiranKalli/supplychain-optimizer)
 ML forecasting system reducing stock-outs by 28%  
-**Stack:** Python • Scikit-learn • PostgreSQL • Plotly  
+**Stack:** Python • Scikit-learn  • Plotly  
 **Impact:** $75K+ annual savings, 92% forecast accuracy
 
 ### [KCube E-Learning](https://github.com/UdaykiranKalli/kcube-elearning)
