@@ -98,7 +98,7 @@ Full-featured learning platform with video streaming
 
 - Building production-grade full-stack applications
 - Learning system design and advanced DSA
-- **Open to Software Engineer / SDE-1 roles**
+- **Open to Software Engineer rolea**
 
 ---
 
