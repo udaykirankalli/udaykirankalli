@@ -65,10 +65,6 @@ ML forecasting system reducing stock-outs by 28%
 **Stack:** Python • Scikit-learn  • Plotly  
 **Impact:** $75K+ annual savings, 92% forecast accuracy
 
-### [KCube E-Learning](https://github.com/UdaykiranKalli/kcube-elearning)
-Full-featured learning platform with video streaming  
-**Stack:** MongoDB • Express • React • Node.js (MERN)  
-**Impact:** 35% better session retention
 
 ---
 
@@ -90,7 +86,6 @@ Full-featured learning platform with video streaming
 - 🏅 Flipkart GRiD 6.0 Qualifier
 - ☁️ Oracle Cloud AI Foundations Certified
 - 🎓 BTech AI & ML - 8.14 CGPA
-- ⭐ HackerRank 5-Star Java
 
 ---
 
