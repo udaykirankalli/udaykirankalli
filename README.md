@@ -1,4 +1,4 @@
-# Hi, I'm Uday Kiran Kalli 👋
+# Hi, I'm Uday Kiran Kalli 
 
 **Software Engineer** | Building scalable systems with React, Python & Flask
 
@@ -98,7 +98,7 @@ Full-featured learning platform with video streaming
 
 - Building production-grade full-stack applications
 - Learning system design and advanced DSA
-- **Open to Software Engineer rolea**
+- **Open to Software Engineer roles**
 
 ---
 
