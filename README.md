@@ -85,7 +85,7 @@ ML forecasting system reducing stock-outs by 28%
 - 📄 Published Researcher - UGC Care Journal (2025)
 - 🏅 Flipkart GRiD 6.0 Qualifier
 - ☁️ Oracle Cloud AI Foundations Certified
-- 🎓 BTech AI & ML - 8.14 CGPA
+- 🎓 BTech AI & ML - 8.04 CGPA
 
 ---
 
