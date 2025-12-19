@@ -1,8 +1,8 @@
-# Hi, I'm Uday Kiran Kalli 
+# Hi, I'm Uday Kiran Kalli 👋
 
-**Software Engineer** | Building scalable systems with React, Python & Flask
+**Software Engineer** | Full-Stack Development | Backend APIs | AI Feature Integration  
 
-6+ months production experience • 99.9% uptime • $75K+ cost optimization
+Hands-on experience through internships and real-world projects building reliable, scalable software systems using **Python, JavaScript, React, and Flask**.
 
 <div align="center">
 
@@ -16,84 +16,94 @@
 
 ## 💻 Tech Stack
 
-**Languages:** Python • JavaScript • SQL • C++  
-**Frontend:** React.js • Redux • HTML5 • CSS3  
-**Backend:** Flask • Node.js • Express.js • REST APIs  
-**Databases:** PostgreSQL • MongoDB • MySQL  
-**DevOps:** Docker • GitHub Actions • CI/CD • AWS • Git
+**Languages:** Python • JavaScript • SQL  
+**Frontend:** React.js • HTML5 • CSS3  
+**Backend:** Flask • REST APIs  
+**Databases:** PostgreSQL • MongoDB  
+**Tools & Platforms:** Git • GitHub • Docker (basic) • AWS (basic) • Linux  
+**Practices:** Agile/Scrum • Debugging • Version Control  
 
 ---
 
-## 🚀 What I Build
+## 🚀 What I Work On
 
-- **Scalable web applications** serving 1000+ users with 99.9% uptime
-- **RESTful APIs** with optimized response times (30% faster)
-- **CI/CD pipelines** reducing deployment time by 40%
-- **Full-stack solutions** with React frontends and Python/Node backends
+- Building **full-stack web applications** with clean UI and backend APIs  
+- Designing and integrating **RESTful services**  
+- Working with **databases**, data flow, and backend logic  
+- Applying **AI/ML concepts** to real applications (project-based)  
+- Writing maintainable, modular, and readable code  
 
 ---
 
 ## 💼 Experience
 
-**Full Stack Engineer @ Innowaft** (Jan 2025 - May 2025)
-- Built React apps with 25% faster load times for 1000+ daily users
-- Designed 15+ REST APIs reducing data retrieval by 25%
-- Implemented CI/CD pipelines achieving 99.9% uptime
+### **Software Development Intern — Innowaft Technologies**
+*Jan 2025 – May 2025*
+- Contributed to frontend and backend feature development.
+- Integrated React UI components with Flask-based REST APIs.
+- Assisted in debugging and improving application workflows.
+- Worked in an **Agile/Scrum environment** with cross-functional teams.
 
-**AI Engineer @ Edubot** (Jul 2024 - Aug 2024)
-- Engineered ETL pipelines processing 10M+ daily records
-- Developed optimization system saving $75K+ annually
-- Created analytics dashboard serving 50+ stakeholders
+### **Web Developer Intern — BrainOvision Solutions**
+*Jun 2023 – Jul 2023*
+- Built responsive web pages using HTML, CSS, and JavaScript.
+- Implemented client-side logic and improved UI usability.
+- Fixed layout and browser-compatibility issues.
 
----
-
-## 🛠️ Featured Projects
-
-### [AI - Resume Analyzer](https://github.com/udaykirankalli/AI-Resume-Analyzer) 
-Full-stack SaaS platform processing 1000+ resumes with 95% accuracy  
-**Stack:** React • Flask • MongoDB • Docker • Firebase  
-**Impact:** 500+ concurrent users, 200+ active accounts  
-🔗 [Live Demo](https://phonalynx.onrender.com)
-
-### [Recipe Platform](https://github.com/UdaykiranKalli/ai-recipe-generator)
-AI-powered recipe app generating 10K+ recipes with nutrition tracking  
-**Stack:** React • Flask • PostgreSQL • LLaMA-2 • AWS  
-**Impact:** 88% accuracy, 4.7⭐ rating, 500+ concurrent users
-
-### [Supply Chain Optimizer](https://github.com/UdaykiranKalli/supplychain-optimizer)
-ML forecasting system reducing stock-outs by 28%  
-**Stack:** Python • Scikit-learn  • Plotly  
-**Impact:** $75K+ annual savings, 92% forecast accuracy
-
+### **Data Science & ML Intern (Short-Term) — ExcelR (APSCHE)**
+*Jul 2024 – Aug 2024*
+- Worked on data preprocessing, analysis, and basic ML models.
+- Applied supervised learning techniques on structured datasets.
+- Gained exposure to end-to-end ML workflows.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Projects
 
-<div align="center">
+### 🔹 AI Resume Analyzer
+Full-stack application for resume parsing and analysis  
+**Stack:** React • Flask • MongoDB  
+- Built backend APIs for resume upload, processing, and scoring.
+- Integrated LLM-based text analysis for structured extraction.
+- Focused on reliability, validation, and modular design.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaykirankalli&show_icons=true&theme=default&hide_border=true&count_private=true)
+🔗 Live Demo: https://phonalynx.onrender.com  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udaykirankalli&layout=compact&theme=default&hide_border=true)
+---
 
-</div>
+### 🔹 AI-Based Recipe Generator & Recommender
+Backend-driven application for recipe generation  
+**Stack:** Flask • MongoDB  
+- Implemented APIs for ingredient handling and recipe generation.
+- Integrated AI-based text generation for recommendations.
+- Designed clean data flow between input and output layers.
+
+---
+
+### 🔹 E-Learning Platform (KCube)
+Frontend educational platform  
+**Stack:** HTML • CSS • JavaScript  
+- Built responsive pages for courses, quizzes, and navigation.
+- Implemented interactive UI components and form handling.
+- Ensured cross-browser compatibility and usability.
 
 ---
 
 ## 🏆 Highlights
 
-- 📄 Published Researcher - UGC Care Journal (2025)
-- 🏅 Flipkart GRiD 6.0 Qualifier
-- ☁️ Oracle Cloud AI Foundations Certified
-- 🎓 BTech AI & ML - 8.04 CGPA
+- 📄 Published Research Paper — *“Smart Chef: AI Recipe Generator”* (UGC Care, 2025)
+- 🏅 Flipkart GRiD 6.0 — Software Development Track (Level 1)
+- ☁️ Oracle Cloud Infrastructure AI Foundations Associate
+- 🎓 B.Tech in AI & ML — CGPA: 8.04
 
 ---
 
 ## 🔭 Currently
 
-- Building production-grade full-stack applications
-- Learning system design and advanced DSA
-- **Open to Software Engineer roles**
+- Improving **software engineering fundamentals & system design**
+- Practicing **DSA, SQL, and Python**
+- Learning **C# and .NET basics** to align with enterprise software systems
+- **Open to Software Engineer / Backend / Full-Stack roles**
 
 ---
 
