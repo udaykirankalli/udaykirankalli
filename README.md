@@ -1,68 +1,54 @@
-<h2 align="left">Hi, I'm Uday Kiran Kalli</h2>
+<h2 align="left">Uday Kiran Kalli</h2>
 
-<!-- Typing animation -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=41B883&width=600&lines=Software+Engineer+from+India;Backend+%26+Full-Stack+Developer;REST+APIs+%7C+AI+Feature+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=41B883&width=520&lines=Software+Engineer;Backend+%26+Full-Stack+Developer;REST+APIs+%7C+AI+Integration" />
 </p>
 
-
-<div align="center">
-  <img src="https://github.com/udaykirankalli/udaykirankalli/blob/main/ocean.svg?color_snake=#15F8EB#gh-dark-mode-only" />
-  <img src="https://github.com/udaykirankalli/udaykirankalli/blob/main/github-snake.svg#gh-light-mode-only" />
-</div>
-
----
-
-<!-- SVG icon links -->
-<div align="center">
+<p align="left">
   <a href="https://udaykirankalli.framer.website">
-    <img src="https://www.svgrepo.com/show/475656/globe.svg" width="22" />
+    <img src="https://www.svgrepo.com/show/475656/globe.svg" width="18" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://linkedin.com/in/udaykirankalli">
-    <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="22" />
+    <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="18" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:kalliudaykiran@gmail.com">
-    <img src="https://www.svgrepo.com/show/475689/mail.svg" width="22" />
+    <img src="https://www.svgrepo.com/show/475689/mail.svg" width="18" />
   </a>
-</div>
-
-<!-- GitHub icon row -->
-<div align="center" style="margin-top:10px;">
+  &nbsp;
   <a href="https://github.com/udaykirankalli">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" width="32" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" width="20" />
   </a>
-</div>
+</p>
 
 ---
 
-<h3 align="center">💻 Tech Stack</h3>
-
-<div align="center">
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png"/></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png"/></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png"/></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flask.png"/></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png"/></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png"/></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png"/></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png"/></code>
-</div>
+<p align="left">
+Building backend-heavy web applications using <b>Python, Flask, React</b> and modern databases.  
+Interested in scalable systems, clean APIs, and AI-powered features.
+</p>
 
 ---
 
-<h3 align="center">🛠️ Projects</h3>
+<h4>Tech</h4>
 
-- **AI Resume Analyzer** — React, Flask, MongoDB  
-- **AI Recipe Generator** — Flask, MongoDB  
-- **KCube E-Learning Platform** — HTML, CSS, JavaScript  
+<p>
+Python · JavaScript · React · Flask · PostgreSQL · MongoDB · Docker · AWS
+</p>
 
 ---
 
-<div align="center">
+<h4>Selected Work</h4>
 
-📍 Hyderabad, India  
+<p>
+AI Resume Analyzer · AI Recipe Generator · KCube E-Learning Platform
+</p>
+
+---
+
+<p>
+📍 Hyderabad, India
+</p>
+
 <img src="https://komarev.com/ghpvc/?username=udaykirankalli&color=blue&style=flat-square" />
-
-</div>
