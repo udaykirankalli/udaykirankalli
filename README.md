@@ -11,9 +11,9 @@ Backend & Full-Stack Developer | REST APIs | AI Feature Integration
 
 <div align="center">
 
-[Portfolio](https://udaykirankalli.framer.website) • 
-[LinkedIn](https://linkedin.com/in/udaykirankalli) • 
-[Email](mailto:kalliudaykiran@gmail.com)
+🌐 <a href="https://udaykirankalli.framer.website">Portfolio</a> &nbsp; | &nbsp;
+💼 <a href="https://linkedin.com/in/udaykirankalli">LinkedIn</a> &nbsp; | &nbsp;
+📧 <a href="mailto:kalliudaykiran@gmail.com">Email</a>
 
 </div>
 
