@@ -51,10 +51,11 @@
 
 <h3 align="center">🎯 Developer Snapshot</h3>
 
+<h3 align="center">🎯 Developer Snapshot</h3>
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=41B883&center=true&width=700&lines=Software+Engineer;Full-Stack+Development;AI-Enabled+Web+Applications" 
-    alt="Developer Snapshot Animation"
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:41B883,100:35495E&height=120&section=header&text=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20AI-Enabled%20Web%20Apps&fontSize=22&fontAlignY=55&animation=fadeIn"
   />
 </p>
 
