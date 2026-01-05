@@ -11,31 +11,10 @@
 </div>
 
 ---
-
-<!-- Links with SVG icons -->
-<div align="center">
- <a href="https://udaykirankalli.framer.website">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Globe_icon.svg" width="22" alt="Portfolio"/>
-</a>
-
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/udaykirankalli">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
-  </a>
-  &nbsp;&nbsp;
-<a href="mailto:kalliudaykiran@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22" alt="Email"/>
-</a>
-
-
-
-<!-- GitHub icon -->
-<div align="center" style="margin-top:10px;">
- <a href="https://github.com/udaykirankalli">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" alt="GitHub"/>
-</a>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://udaykirankalli.framer.website)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udaykirankalli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udaykirankalli)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalliudaykiran@gmail.com)
 
 ---
 
