@@ -49,15 +49,22 @@
 
 ---
 
-<h3 align="center">🎯 Developer Snapshot</h3>
+## 👨🏻‍💻 &nbsp;About Me
 
-<h3 align="center">🎯 Developer Snapshot</h3>
+<img 
+  alt="Coder GIF" 
+  height="250" 
+  width="350" 
+  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" 
+  align="right"
+/>
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:41B883,100:35495E&height=120&section=header&text=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20AI-Enabled%20Web%20Apps&fontSize=22&fontAlignY=55&animation=fadeIn"
-  />
-</p>
+🎓 &nbsp;I’m a **2025 B.Tech graduate** in **Artificial Intelligence and Machine Learning** from **Aditya Engineering College**.  
+💻 &nbsp;I’m a **Software Engineer** with hands-on experience from internships and academic projects, building web and backend applications using **Python, JavaScript, React, and Flask**.  
+🧩 &nbsp;I have a strong foundation in **REST APIs, databases, data structures, and core software engineering fundamentals**.  
+🤖 &nbsp;I’ve worked on integrating **AI-powered features**, including **NLP and Large Language Models**, into real-world applications.  
+✉️ &nbsp;Email: **kalliudaykiran@gmail.com**
+
 
 
 <div align="center">
