@@ -15,17 +15,18 @@
 <!-- Links with SVG icons -->
 <div align="center">
   <a href="https://udaykirankalli.framer.website">
-    <img src="https://www.svgrepo.com/show/475656/globe.svg" width="22" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="22" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/udaykirankalli">
-    <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="22" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kalliudaykiran@gmail.com">
-    <img src="https://www.svgrepo.com/show/475689/mail.svg" width="22" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22" />
   </a>
 </div>
+
 
 <!-- GitHub icon -->
 <div align="center" style="margin-top:10px;">
