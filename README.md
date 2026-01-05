@@ -65,10 +65,3 @@
 🤖 &nbsp;I’ve worked on integrating **AI-powered features**, including **NLP and Large Language Models**, into real-world applications.  
 ✉️ &nbsp;Email: **kalliudaykiran@gmail.com**
 
-
-
-<div align="center">
-  📍 Hyderabad, India  
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=udaykirankalli&color=blue&style=flat-square" />
-</div>
