@@ -1,54 +1,85 @@
-<h2 align="left">Uday Kiran Kalli</h2>
+<h2 align="left">Hi, I'm Uday Kiran Kalli</h2>
 
+<!-- Typing animation -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=41B883&width=520&lines=Software+Engineer;Backend+%26+Full-Stack+Developer;REST+APIs+%7C+AI+Integration" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=41B883&width=750&lines=Software+Engineer+from+India;Full-Stack+Developer;Building+Scalable+Web+Applications;AI-Integrated+%26+AI-Powered+Applications" />
 </p>
 
-<p align="left">
+<div align="center">
+  <img src="https://github.com/udaykirankalli/udaykirankalli/blob/main/ocean.svg?color_snake=#15F8EB#gh-dark-mode-only" />
+  <img src="https://github.com/udaykirankalli/udaykirankalli/blob/main/github-snake.svg#gh-light-mode-only" />
+</div>
+
+---
+
+<!-- Links with SVG icons -->
+<div align="center">
   <a href="https://udaykirankalli.framer.website">
-    <img src="https://www.svgrepo.com/show/475656/globe.svg" width="18" />
+    <img src="https://www.svgrepo.com/show/475656/globe.svg" width="22" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/udaykirankalli">
-    <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="18" />
+    <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="22" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:kalliudaykiran@gmail.com">
-    <img src="https://www.svgrepo.com/show/475689/mail.svg" width="18" />
+    <img src="https://www.svgrepo.com/show/475689/mail.svg" width="22" />
   </a>
-  &nbsp;
+</div>
+
+<!-- GitHub icon -->
+<div align="center" style="margin-top:10px;">
   <a href="https://github.com/udaykirankalli">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" width="20" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" width="32" />
   </a>
-</p>
+</div>
 
 ---
 
-<p align="left">
-Building backend-heavy web applications using <b>Python, Flask, React</b> and modern databases.  
-Interested in scalable systems, clean APIs, and AI-powered features.
-</p>
+<h3 align="center">💻 Tech Stack</h3>
+
+<div align="center">
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flask.png"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png"/></code>
+</div>
 
 ---
 
-<h4>Tech</h4>
+<h3 align="center">🛠️ Projects</h3>
 
-<p>
-Python · JavaScript · React · Flask · PostgreSQL · MongoDB · Docker · AWS
-</p>
+<b>AI Resume Analyzer</b><br/>
+React · Flask · PostgreSQL · Firebase · Gemini API  
+<ul>
+  <li>Built backend APIs for resume upload, parsing, and scoring.</li>
+  <li>Integrated Google Gemini API for resume analysis and structured insights.</li>
+  <li>Used Firebase for authentication and application services.</li>
+</ul>
+
+<b>AI Recipe Generator & Recommender</b><br/>
+Flask · Express · MongoDB · LLaMA (via Hugging Face)  
+<ul>
+  <li>Implemented REST APIs for ingredient-based recipe generation.</li>
+  <li>Integrated LLaMA models via Hugging Face for AI-powered recommendations.</li>
+  <li>Handled backend logic using Express and Flask services.</li>
+</ul>
+
+<b>KCube – E-Learning Platform</b><br/>
+HTML · CSS · JavaScript  
+<ul>
+  <li>Developed responsive UI for courses and learning modules.</li>
+  <li>Implemented interactive components and form handling.</li>
+</ul>
 
 ---
 
-<h4>Selected Work</h4>
-
-<p>
-AI Resume Analyzer · AI Recipe Generator · KCube E-Learning Platform
-</p>
-
----
-
-<p>
-📍 Hyderabad, India
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=udaykirankalli&color=blue&style=flat-square" />
+<div align="center">
+  📍 Hyderabad, India  
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=udaykirankalli&color=blue&style=flat-square" />
+</div>
