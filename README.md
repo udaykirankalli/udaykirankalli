@@ -31,15 +31,21 @@
 <h3 align="center">💻 Tech Stack</h3>
 
 <div align="center">
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png"/></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png"/></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png"/></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flask.png"/></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png"/></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png"/></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png"/></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" title="Python"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png" title="Java"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" title="JavaScript"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" title="React"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" title="HTML5"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" title="CSS3"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flask.png" title="Flask"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" title="Express.js"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" title="PostgreSQL"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png" title="MongoDB"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png" title="Firebase"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" title="Docker"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" title="AWS"/></code>
 </div>
+
 
 ---
 
