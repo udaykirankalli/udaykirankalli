@@ -1,8 +1,28 @@
-# Hi, I'm Uday Kiran Kalli 👋
+<h2 align="left">Hi 👋! My name is Uday Kiran Kalli and I'm a Software Engineer, from India 🇮🇳</h2>
 
-**Software Engineer** | Full-Stack Development | Backend APIs | AI Feature Integration  
+###
 
-Hands-on experience through internships and real-world projects building reliable, scalable software systems using **Python, JavaScript, React, and Flask**.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaykirankalli&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykirankalli&theme=vue-dark&hide_border=true" height="150" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykirankalli&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" width="300" />
+</div>
+
+###
+
+<div align="center">
+  <!-- Snake animation -->
+  <img src="https://github.com/udaykirankalli/udaykirankalli/blob/main/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
+  <img src="https://github.com/udaykirankalli/udaykirankalli/blob/main/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
+</div>
+
+###
+
+<h3 align="center">Software Engineer | Full-Stack Developer | Backend APIs | AI Feature Integration</h3>
+
+<p align="center">
+Hands-on experience through internships and real-world projects building reliable, scalable software systems using <b>Python, JavaScript, React, Flask</b>.
+</p>
 
 <div align="center">
 
@@ -14,105 +34,73 @@ Hands-on experience through internships and real-world projects building reliabl
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
-**Languages:** Python • JavaScript • SQL  
-**Frontend:** React.js • HTML5 • CSS3  
-**Backend:** Flask • REST APIs  
-**Databases:** PostgreSQL • MongoDB  
-**Tools & Platforms:** Git • GitHub • Docker (basic) • AWS (basic) • Linux  
-**Practices:** Agile/Scrum • Debugging • Version Control  
-
----
-
-## 🚀 What I Work On
-
-- Building **full-stack web applications** with clean UI and backend APIs  
-- Designing and integrating **RESTful services**  
-- Working with **databases**, data flow, and backend logic  
-- Applying **AI/ML concepts** to real applications (project-based)  
-- Writing maintainable, modular, and readable code  
-
----
-
-## 💼 Experience
-
-### **Software Development Intern — Innowaft Technologies**
-*Jan 2025 – May 2025*
-- Contributed to frontend and backend feature development.
-- Integrated React UI components with Flask-based REST APIs.
-- Assisted in debugging and improving application workflows.
-- Worked in an **Agile/Scrum environment** with cross-functional teams.
-
-### **Web Developer Intern — BrainOvision Solutions**
-*Jun 2023 – Jul 2023*
-- Built responsive web pages using HTML, CSS, and JavaScript.
-- Implemented client-side logic and improved UI usability.
-- Fixed layout and browser-compatibility issues.
-
-### **Data Science & ML Intern (Short-Term) — ExcelR (APSCHE)**
-*Jul 2024 – Aug 2024*
-- Worked on data preprocessing, analysis, and basic ML models.
-- Applied supervised learning techniques on structured datasets.
-- Gained exposure to end-to-end ML workflows.
+<div align="center">
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" alt="GitHub" /></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" alt="VS Code" /></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" alt="Postman" /></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" alt="HTML" /></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" alt="CSS" /></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript" /></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React" /></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" /></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flask.png" alt="Flask" /></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="PostgreSQL" /></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png" alt="MongoDB" /></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" /></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS" /></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" alt="Linux" /></code>
+</div>
 
 ---
 
-## 🛠️ Projects
+<h2 align="center">🚀 What I Work On</h2>
+
+- Full-stack web applications with clean UI and scalable backend  
+- RESTful API design and backend logic  
+- Database modeling and data flow  
+- AI/ML feature integration in real applications  
+- Writing clean, maintainable, and modular code  
+
+---
+
+<h2 align="center">🛠️ Projects</h2>
 
 ### 🔹 AI Resume Analyzer
-Full-stack application for resume parsing and analysis  
 **Stack:** React • Flask • MongoDB  
-- Built backend APIs for resume upload, processing, and scoring.
-- Integrated LLM-based text analysis for structured extraction.
-- Focused on reliability, validation, and modular design.
+- Resume upload, parsing, and scoring APIs  
+- LLM-based text analysis and extraction  
+- Focused on reliability and validation  
 
-🔗 Live Demo: https://phonalynx.onrender.com  
+🔗 Live Demo: https://phonalynx.onrender.com
 
 ---
 
 ### 🔹 AI-Based Recipe Generator & Recommender
-Backend-driven application for recipe generation  
 **Stack:** Flask • MongoDB  
-- Implemented APIs for ingredient handling and recipe generation.
-- Integrated AI-based text generation for recommendations.
-- Designed clean data flow between input and output layers.
+- Ingredient-based recipe generation  
+- AI-driven recommendations  
+- Clean backend data flow  
 
 ---
 
-### 🔹 E-Learning Platform (KCube)
-Frontend educational platform  
+### 🔹 KCube – E-Learning Platform
 **Stack:** HTML • CSS • JavaScript  
-- Built responsive pages for courses, quizzes, and navigation.
-- Implemented interactive UI components and form handling.
-- Ensured cross-browser compatibility and usability.
+- Responsive educational UI  
+- Interactive components and form handling  
 
 ---
 
-## 🏆 Highlights
+<h2 align="center">🏆 Highlights</h2>
 
-- 📄 Published Research Paper — *“Smart Chef: AI Recipe Generator”* (UGC Care, 2025)
-- 🏅 Flipkart GRiD 6.0 — Software Development Track (Level 1)
-- ☁️ Oracle Cloud Infrastructure AI Foundations Associate
-- 🎓 B.Tech in AI & ML — CGPA: 8.04
-
----
-
-## 🔭 Currently
-
-- Improving **software engineering fundamentals & system design**
-- Practicing **DSA, SQL, and Python**
-- Learning **C# and .NET basics** to align with enterprise software systems
-- **Open to Software Engineer / Backend / Full-Stack roles**
+- 📄 Research Paper — *Smart Chef: AI Recipe Generator* (UGC Care, 2025)  
+- 🏅 Flipkart GRiD 6.0 – Software Track (Level 1)  
+- ☁️ Oracle OCI AI Foundations Associate  
+- 🎓 B.Tech AI & ML — CGPA: 8.04  
 
 ---
 
-<div align="center">
+<h2 align="center">🔭 Currently</h2>
 
-📍 Hyderabad, India | Open to relocation  
-📧 kalliudaykiran@gmail.com  
-🌐 [Portfolio](https://udaykirankalli.framer.website) • [LinkedIn](https://linkedin.com/in/udaykirankalli)
-
-![Profile Views](https://komarev.com/ghpvc/?username=udaykirankalli&color=blue&style=flat-square)
-
-</div>
+- Strengthening system design & backend fundamentals  
