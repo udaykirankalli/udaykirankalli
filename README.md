@@ -49,32 +49,15 @@
 
 ---
 
-<h3 align="center">🛠️ Projects</h3>
+<h3 align="center">🎯 Developer Snapshot</h3>
 
-<b>AI Resume Analyzer</b><br/>
-React · Flask · PostgreSQL · Firebase · Gemini API  
-<ul>
-  <li>Built backend APIs for resume upload, parsing, and scoring.</li>
-  <li>Integrated Google Gemini API for resume analysis and structured insights.</li>
-  <li>Used Firebase for authentication and application services.</li>
-</ul>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=41B883&center=true&width=700&lines=Software+Engineer;Full-Stack+Development;AI-Enabled+Web+Applications" 
+    alt="Developer Snapshot Animation"
+  />
+</p>
 
-<b>AI Recipe Generator & Recommender</b><br/>
-Flask · Express · MongoDB · LLaMA (via Hugging Face)  
-<ul>
-  <li>Implemented REST APIs for ingredient-based recipe generation.</li>
-  <li>Integrated LLaMA models via Hugging Face for AI-powered recommendations.</li>
-  <li>Handled backend logic using Express and Flask services.</li>
-</ul>
-
-<b>KCube – E-Learning Platform</b><br/>
-HTML · CSS · JavaScript  
-<ul>
-  <li>Developed responsive UI for courses and learning modules.</li>
-  <li>Implemented interactive components and form handling.</li>
-</ul>
-
----
 
 <div align="center">
   📍 Hyderabad, India  
