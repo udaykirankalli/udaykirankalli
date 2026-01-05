@@ -14,25 +14,27 @@
 
 <!-- Links with SVG icons -->
 <div align="center">
-  <a href="https://udaykirankalli.framer.website">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="22" />
-  </a>
+ <a href="https://udaykirankalli.framer.website">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Globe_icon.svg" width="22" alt="Portfolio"/>
+</a>
+
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/udaykirankalli">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:kalliudaykiran@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22" />
-  </a>
-</div>
+<a href="mailto:kalliudaykiran@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22" alt="Email"/>
+</a>
+
 
 
 <!-- GitHub icon -->
 <div align="center" style="margin-top:10px;">
-  <a href="https://github.com/udaykirankalli">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" width="32" />
-  </a>
+ <a href="https://github.com/udaykirankalli">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" alt="GitHub"/>
+</a>
+
 </div>
 
 ---
